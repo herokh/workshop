@@ -7,5 +7,4 @@ data:
   HOSTNAME: ''
   PORT: '1323'
   FLAG_IS_LIMIT_MAX_SPEND_ON_CREATE: 'true'
-  DB_CONNECTION: '<DB_CONNECTION_DEV>'
-  
+  DB_CONNECTION: 'postgres://zmudtzwl:28MI2f6x6QvL7e9IgmD_4r1G1QEtQsnP@tiny.db.elephantsql.com/zmudtzwl'
